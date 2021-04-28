@@ -9,7 +9,7 @@
 ## Prices - North Europe
 ### LRS - Locally Redundant Storage
 #### Premium SSD
-|Navn|Diskstørrelser|Pris per måned|1-årig reservert|Maks. IOPS (maks. IOPS med bursting)|Maks. gjennomstrømming (maks. gjennomstrømming med bursting)|Pris per innsetting per måned (Delt disk)
+|Navn|Diskstørrelser|Pris per måned&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|1-årig reservert|Maks. IOPS (maks. IOPS med bursting)|Maks. gjennomstrømming (maks. gjennomstrømming med bursting)|Pris per innsetting per måned (Delt disk)
 |---|---|---|---|---|---|---|
 |P1|4 GiB|kr6,35|I/T|120 (3 500)|25 MB/sekund (170 MB/sekund)|I/T
 |P2|8 GiB|kr12,70|I/T|120 (3 500)|25 MB/sekund (170 MB/sekund)|I/T
