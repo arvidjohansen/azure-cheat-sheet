@@ -1,9 +1,10 @@
 # azure-cheat-sheet
 
 ## Links
-1) Azure for students registration - https://aka.ms/a4s
-2) Account balance - https://www.microsoftazuresponsorships.com/Balance
-3) Disk costs - https://azure.microsoft.com/nb-no/pricing/details/managed-disks/
+1) Azure for students registration - https://aka.ms/a4s  
+  a) Register here to get 100$ student credits (*Use your student email*)
+3) Account balance - https://www.microsoftazuresponsorships.com/Balance
+4) Disk costs - https://azure.microsoft.com/nb-no/pricing/details/managed-disks/
 
 ## Prices - North Europe
 ### LRS - Locally Redundant Storage
