@@ -25,7 +25,7 @@
 |P70|16 TiB|kr15 885,58|kr15 091,6738|18 000 (30 000)|750 MB/sekund (1,000 MB/sekund)|kr1 158,33
 |P80|32 TiB (32767 GiB)|kr31 771,06|kr30 182,6130|20 000 (30 000)|900 MB/sekund (1,000 MB/sekund)|kr2 316,65
 
-### Standard SSD
+#### Standard SSD
 |Navn|Diskstørrelser|Pris per måned|Maks. IOPS per disk|Maks. gjennomstrømming per disk
 |---|---|---|---|---|
 E1|4 GiB|kr2,65|500|60 MB/sekund
